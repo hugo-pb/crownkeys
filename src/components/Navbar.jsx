@@ -19,10 +19,10 @@ export default function Navbarr() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav>
-              <Nav.Link href="#deets">Home</Nav.Link>
-              <Nav.Link href="#memes">About</Nav.Link>
-              <Nav.Link href="#memes">Our Suits</Nav.Link>
-              <Nav.Link href="#memes">Accessories</Nav.Link>
+              <Nav.Link href="#Home">Home</Nav.Link>
+              <Nav.Link href="#About">About</Nav.Link>
+              <Nav.Link href="#Oursuits">Our Suits</Nav.Link>
+              <Nav.Link href="#Accessories">Accessories</Nav.Link>
 
               <Button className="btn-grad1" variant="outline-light">Contact us!</Button>
             </Nav>

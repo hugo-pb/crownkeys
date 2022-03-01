@@ -2,12 +2,12 @@
   background-color: rgb(48, 48, 48);
   display: flex;
   justify-content: space-around;
-  color: aliceblue;
+ 
 }
 .nav Button {
   margin-left: 1rem;
 }
-.btn-grad1 {background-image: linear-gradient(to right, #283048 0%, #859398  51%, #283048  100%)}
+.btn-grad1 {background-image: linear-gradient(to right, #000 0%, #859398  51%, #283048  100%)}
          .btn-grad1 {
            
             padding: 15px 45px;
