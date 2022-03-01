@@ -7,3 +7,22 @@
 .nav Button {
   margin-left: 1rem;
 }
+.btn-grad1 {background-image: linear-gradient(to right, #283048 0%, #859398  51%, #283048  100%)}
+         .btn-grad1 {
+           
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad1:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
