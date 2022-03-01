@@ -1,0 +1,9 @@
+.nav {
+  background-color: rgb(48, 48, 48);
+  display: flex;
+  justify-content: space-around;
+  color: aliceblue;
+}
+.nav Button {
+  margin-left: 1rem;
+}
