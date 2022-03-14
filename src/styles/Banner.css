@@ -1,15 +1,6 @@
-.Banner {
- 
-  background: rgb(255, 255, 255);
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(133, 126, 126, 1) 50%,
-    rgba(0, 0, 0, 1) 100%
-  );
-}
+
 .Banner .center {
-  margin-top: 6rem;
+
   justify-content: center;
   display: flex;
   flex-flow: column nowrap;
